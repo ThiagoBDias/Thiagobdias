@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Thiago Batista Dias, tenho 23 anos e sou natural de Patrocinio MG. Concluí o ensino médio no Nelly Amaral, Tenho analise de sistema do instituto federal do triângulo mineiro. Atualmente, estou Formado.Estou estudando JS na udemy. 
+Me chamo Thiago Batista Dias, tenho 24 anos e sou natural de Patrocinio MG. Concluí o ensino médio no Nelly Amaral, Tenho analise de sistema do instituto federal do triângulo mineiro. Atualmente, estou Formado.Estou estudando JS na udemy. 
 
 ---
 
