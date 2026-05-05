@@ -15,8 +15,16 @@ Atualmente desenvolvendo projetos backend com foco em regras de negócio reais.
 - React
 
 ## 📌 Projetos em destaque
-- MinhaAgendaBackend (API em C# com foco em gestão de tarefas)
+- MinhaAgendaBackend (API REST desenvolvida em ASP.NET Core para gerenciamento de tarefas com autenticação JWT, persistência em SQL Server e aplicação de regras de negócio.)
+
+## 📡 Endpoints
+
+POST /auth/login  
+GET /tasks  
+POST /tasks  
+PUT /tasks/{id}  
+DELETE /tasks/{id}
 
 ## 📫 Contato
-- LinkedIn:[ seu-link](https://www.linkedin.com/in/thiago-batista-dias/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thiago-batista-dias/)
 - Email: thiagobatistadiasss@gmail.com
