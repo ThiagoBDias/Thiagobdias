@@ -18,5 +18,5 @@ Atualmente desenvolvendo projetos backend com foco em regras de negócio reais.
 - MinhaAgendaBackend (API em C# com foco em gestão de tarefas)
 
 ## 📫 Contato
-- LinkedIn: seu-link
-- Email: seu-email
+- LinkedIn:[ seu-link](https://www.linkedin.com/in/thiago-batista-dias/)
+- Email: thiagobatistadiasss@gmail.com
