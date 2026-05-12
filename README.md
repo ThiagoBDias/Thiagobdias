@@ -17,6 +17,7 @@ Atualmente desenvolvendo projetos backend com foco em regras de negócio reais.
 ## 📌 Projetos em destaque
 - MinhaAgendaBackend (API REST desenvolvida em ASP.NET Core para gerenciamento de tarefas com autenticação JWT, persistência em SQL Server e aplicação de regras de negócio.)
 
+
 ## 📡 Endpoints
 
 POST /auth/login  
