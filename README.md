@@ -1,31 +1,31 @@
 # 👨‍💻 Thiago Batista
 
-Desenvolvedor Backend focado em .NET (C#), APIs REST e banco de dados SQL Server.
+Desenvolvedor Backend focado no ecossistema .NET (C#), construção de APIs REST e modelagem de banco de dados SQL Server.
 
 ## 🚀 Sobre mim
-Experiência prática com ERP Sankhya, automação de processos e análise de dados.
-Atualmente desenvolvendo projetos backend com foco em regras de negócio reais.
+Experiência prática com integração de sistemas (ERP Sankhya), automação de processos corporativos e análise de dados. Atualmente focado na arquitetura e desenvolvimento de projetos backend aplicando regras de negócio complexas e soluções escaláveis.
 
-## 🛠 Stack principal
-- C# / .NET
-- ASP.NET Core
-- SQL Server
-- Entity Framework
-- Node.js
-- React
+---
 
-## 📌 Projetos em destaque
-- MinhaAgendaBackend (API REST desenvolvida em ASP.NET Core para gerenciamento de tarefas com autenticação JWT, persistência em SQL Server e aplicação de regras de negócio.)
+## 🛠 Stack Principal
+- **Backend:** C# / .NET | ASP.NET Core | Node.js
+- **Banco de Dados & ORM:** SQL Server | Entity Framework (EF Core)
+- **Frontend:** React
 
+---
 
-## 📡 Endpoints
+## 📌 Projetos em Destaque
 
-POST /auth/login  
-GET /tasks  
-POST /tasks  
-PUT /tasks/{id}  
+### 📅 MinhaAgendaBackend
+API REST desenvolvida em **ASP.NET Core** para gerenciamento de tarefas.
+* **Segurança:** Autenticação e controle de acesso via JWT (JSON Web Tokens).
+* **Persistência:** Modelagem estruturada com persistência em banco de dados SQL Server.
+* **Arquitetura:** Separação clara de camadas e aplicação de regras de negócio reais.
+
+#### ⚙️ Endpoints da API:
+```http
+POST   /auth/login
+GET    /tasks
+POST   /tasks
+PUT    /tasks/{id}
 DELETE /tasks/{id}
-
-## 📫 Contato
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thiago-batista-dias/)
-- Email: thiagobatistadiasss@gmail.com
