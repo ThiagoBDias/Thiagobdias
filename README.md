@@ -1,31 +1,72 @@
-# 👨‍💻 Thiago Batista
+# 👨‍💻 Thiago Batista Dias
 
-Desenvolvedor Backend focado no ecossistema .NET (C#), construção de APIs REST e modelagem de banco de dados SQL Server.
-
-## 🚀 Sobre mim
-Experiência prática com integração de sistemas (ERP Sankhya), automação de processos corporativos e análise de dados. Atualmente focado na arquitetura e desenvolvimento de projetos backend aplicando regras de negócio complexas e soluções escaláveis.
+**Desenvolvedor Backend** focado em **C# / .NET** e **SQL**, com experiência prática em sistemas corporativos e processos de mineração.
 
 ---
 
-## 🛠 Stack Principal
-- **Backend:** C# / .NET | ASP.NET Core | Node.js
-- **Banco de Dados & ORM:** SQL Server | Entity Framework (EF Core)
-- **Frontend:** React
+### 🚀 Sobre mim
+
+Sou formado em Desenvolvimento de Software e tenho experiência real com:
+
+- Integração e operação de sistemas **ERP (Sankhya)**
+- Controle operacional e processos de mineração
+- Análise de dados e automação de rotinas
+- Desenvolvimento de APIs REST com **ASP.NET Core**
+
+Atualmente estou aprofundando conhecimentos em arquitetura backend, modelagem de dados e boas práticas de desenvolvimento, com foco em soluções escaláveis e de alta qualidade.
 
 ---
 
-## 📌 Projetos em Destaque
+### 🛠 Stack Principal
 
-### 📅 MinhaAgendaBackend
-API REST desenvolvida em **ASP.NET Core** para gerenciamento de tarefas.
-* **Segurança:** Autenticação e controle de acesso via JWT (JSON Web Tokens).
-* **Persistência:** Modelagem estruturada com persistência em banco de dados SQL Server.
-* **Arquitetura:** Separação clara de camadas e aplicação de regras de negócio reais.
+**Backend**
+- C# / .NET
+- ASP.NET Core
+- Entity Framework Core
+- JWT Authentication
 
-#### ⚙️ Endpoints da API:
-```http
-POST   /auth/login
-GET    /tasks
-POST   /tasks
-PUT    /tasks/{id}
-DELETE /tasks/{id}
+**Banco de Dados**
+- SQL Server
+- PostgreSQL
+- Modelagem e consultas avançadas
+
+**Outros**
+- Docker
+- Git / GitHub
+- Noções de React
+
+---
+
+### 📌 Projetos em Destaque
+
+#### 🚛 [FleetControl](https://github.com/ThiagoBDias/fleetcontrol)
+Sistema de controle e gestão operacional para mineração.  
+Modela alocações, viagens, apontamentos e operações de equipamentos, com foco em regras de negócio reais e integridade dos dados.
+
+**Tecnologias:** .NET · Entity Framework · PostgreSQL · Docker · PostGIS
+
+#### ✅ [MinhaAgendaBackend](https://github.com/ThiagoBDias/MinhaAgendaBackend)
+API REST desenvolvida em ASP.NET Core para gerenciamento de tarefas.  
+Inclui autenticação JWT, padrão Repository e estrutura organizada em camadas.
+
+**Tecnologias:** ASP.NET Core · EF Core · JWT · SQL Server / SQLite
+
+#### 💰 [FinanceControl](https://github.com/ThiagoBDias/FinanceControl)
+API de controle financeiro pessoal desenvolvida com .NET 8 e PostgreSQL.
+
+---
+
+### 🎯 Objetivo atual
+
+Estou em busca de oportunidades como **Desenvolvedor Backend Júnior / Pleno** (CLT ou Freelance), preferencialmente com foco em:
+
+- C# / .NET
+- APIs REST
+- Sistemas corporativos e integração com ERP
+
+---
+
+### 📫 Contato
+
+- LinkedIn: [linkedin.com/in/thiago-batista-dias](https://www.linkedin.com/in/thiago-batista-dias)
+- Portfólio: [thiagodias.dev](https://www.thiagodias.dev)
